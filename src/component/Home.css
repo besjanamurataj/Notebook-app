@@ -1,0 +1,22 @@
+.wrapper {
+    position: relative;
+    display: flex;
+    min-width: 100px;
+  }
+
+  
+ .input {
+    height: 20px;
+    
+    padding: 14px;
+    margin: 18px;
+    font-size: 14px;
+    border:rgb(44, 196, 207) solid;
+    border-radius: 7px;
+	color: #444;
+	box-sizing: border-box;
+	outline: none;
+} 
+.card-height{
+    height: 55px;
+}
